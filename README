@@ -1,0 +1,11 @@
+Voici quelques projets en C réalisés à Epitech
+
+Liste des projets et fonctionnement:
+
+- Allum1: un jeu des alumettes, le but est de gagner contre l'IA.
+- bsq: Un programme qui recherche le plus grand emplacement libre pour dessiner un rectangle dans une map source.
+- Dante: Contient un générateur et un solveur de labyrinthe.
+- 42sh: Interpréteur de commandes imitant bash.
+- my_select: Programme en ncurse qui affiche la liste des fichiers/dossiers à lemplacement choisis, permet de les sélectionner et d'afficher la liste des éléments sélectionnés.
+
+Les projets Dante et 42sh ont été réalsés en groupe.
