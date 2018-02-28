@@ -1,0 +1,11 @@
+alias:emacs=emacs -nw
+alias:ne=emacs -nw
+alias:ls=ls --color=auto
+alias:sl=ls --color=auto
+alias:ll=ls -l --color=auto
+alias:la=ls -a --color=auto
+alias:lla=ls -la --color=auto
+alias:chrome=google-chrome
+alias:end=xlock -mode matrix -delay 40000 -saturation 1
+alias:lk=xlock -mode helix
+alias:zambla=firefox https://soundcloud.com/lost_tracks/derriere-les-rochers
